@@ -1,10 +1,8 @@
 team: Panthers
 
-<<<<<<< HEAD
-manager: Shirley
-=======
 manager: Raymond
->>>>>>> d3ebed5 (Edit Panthers)
+
+coach: Shirley
 
 members:
 - Violet
